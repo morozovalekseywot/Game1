@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_with_interfaces", "Game_with_interfaces.csproj", "{DC48CADD-33E7-4863-970C-23AB313C4797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGame", "PlayGame\PlayGame.csproj", "{3FF93233-82C0-4884-8DCF-2C48AB3D0517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC48CADD-33E7-4863-970C-23AB313C4797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC48CADD-33E7-4863-970C-23AB313C4797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC48CADD-33E7-4863-970C-23AB313C4797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC48CADD-33E7-4863-970C-23AB313C4797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF93233-82C0-4884-8DCF-2C48AB3D0517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF93233-82C0-4884-8DCF-2C48AB3D0517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF93233-82C0-4884-8DCF-2C48AB3D0517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF93233-82C0-4884-8DCF-2C48AB3D0517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
